@@ -1,0 +1,2 @@
+# Javascripts
+Beginner Friendly Tutorial
